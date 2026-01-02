@@ -667,7 +667,7 @@
       "empty": "您还没有保存任何过滤器。",
       "end_date": "结束日期",
       "enter description": "输入筛选器描述",
-      "enter label": "输入过滤器标签",
+      "enter name": "输入过滤器名称",
       "execution_kind": {
         "playground": "游乐场",
         "playground_description": "从Playground模式触发的执行",
@@ -690,7 +690,7 @@
         "description": "按执行类型筛选",
         "label": "种类"
       },
-      "label": "标签",
+      "name": "名称",
       "labels": {
         "description": "按标签筛选",
         "label": "标签"

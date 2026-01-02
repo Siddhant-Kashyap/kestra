@@ -667,7 +667,7 @@
       "empty": "Todavía no tienes ningún filtro guardado.",
       "end_date": "Fecha de finalización",
       "enter description": "Ingrese la descripción del filtro",
-      "enter label": "Ingrese etiqueta de filtro",
+      "enter name": "Ingrese nombre de filtro",
       "execution_kind": {
         "playground": "Área de Pruebas",
         "playground_description": "Ejecuciones activadas desde el modo Playground",
@@ -690,7 +690,7 @@
         "description": "Filtrar por tipo de ejecución",
         "label": "Tipo"
       },
-      "label": "Etiqueta",
+      "name": "Nombre",
       "labels": {
         "description": "Filtrar por labels",
         "label": "Etiquetas"

@@ -667,7 +667,7 @@
       "empty": "Nie masz jeszcze żadnego zapisanego filtra.",
       "end_date": "Data zakończenia",
       "enter description": "Wprowadź opis filtra",
-      "enter label": "Wprowadź filtr label",
+      "enter name": "Wprowadź nazwę filtra",
       "execution_kind": {
         "playground": "Plac zabaw",
         "playground_description": "Wykonania uruchomione z trybu Playground",
@@ -690,7 +690,7 @@
         "description": "Filtruj według rodzaju wykonania",
         "label": "Rodzaj"
       },
-      "label": "Etykieta",
+      "name": "Nazwa",
       "labels": {
         "description": "Filtruj według labeli",
         "label": "Etykiety"

@@ -667,7 +667,7 @@
       "empty": "まだ保存されたフィルターがありません。",
       "end_date": "終了日",
       "enter description": "フィルターの説明を入力してください",
-      "enter label": "フィルターラベルを入力してください",
+      "enter name": "フィルター名を入力してください",
       "execution_kind": {
         "playground": "プレイグラウンド",
         "playground_description": "Playgroundモードからトリガーされた実行",
@@ -690,7 +690,7 @@
         "description": "実行種別でフィルター",
         "label": "種類"
       },
-      "label": "ラベル",
+      "name": "名前",
       "labels": {
         "description": "ラベルでフィルター",
         "label": "ラベル"

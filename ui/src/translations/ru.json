@@ -667,7 +667,7 @@
       "empty": "У вас еще нет сохраненных фильтров.",
       "end_date": "Дата окончания",
       "enter description": "Введите описание фильтра",
-      "enter label": "Введите фильтр label",
+      "enter name": "Введите имя фильтра",
       "execution_kind": {
         "playground": "Песочница",
         "playground_description": "Запуски, инициированные из режима Playground",
@@ -690,7 +690,7 @@
         "description": "Фильтр по виду выполнения",
         "label": "Тип"
       },
-      "label": "Ярлык",
+      "name": "Имя",
       "labels": {
         "description": "Фильтр по labels",
         "label": "Ярлыки"

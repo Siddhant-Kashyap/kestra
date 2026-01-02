@@ -667,7 +667,7 @@
       "empty": "저장된 필터가 아직 없습니다.",
       "end_date": "종료 날짜",
       "enter description": "필터 설명 입력",
-      "enter label": "필터 label 입력",
+      "enter name": "필터 이름 입력",
       "execution_kind": {
         "playground": "플레이그라운드",
         "playground_description": "플레이그라운드 모드에서 트리거된 실행",
@@ -690,7 +690,7 @@
         "description": "실행 종류별 필터링",
         "label": "종류"
       },
-      "label": "레이블",
+      "name": "이름",
       "labels": {
         "description": "레이블로 필터링",
         "label": "레이블"

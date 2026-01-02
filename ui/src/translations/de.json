@@ -667,7 +667,7 @@
       "empty": "Sie haben noch keinen gespeicherten Filter.",
       "end_date": "Enddatum",
       "enter description": "Filterbeschreibung eingeben",
-      "enter label": "Filter-Label eingeben",
+      "enter name": "Filternamen eingeben",
       "execution_kind": {
         "playground": "Spielplatz",
         "playground_description": "Ausführungen, die im Playground-Modus ausgelöst wurden",
@@ -690,7 +690,7 @@
         "description": "Nach Ausführungsart filtern",
         "label": "Art"
       },
-      "label": "Label",
+      "name": "Name",
       "labels": {
         "description": "Nach Labels filtern",
         "label": "Labels"
